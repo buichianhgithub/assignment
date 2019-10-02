@@ -7,3 +7,10 @@ cache: npm
 
 before_install:
   - ls -la
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 2759b06f01f20c42a45ac2e05e5fc7969e111d16
+>>>>>>> c47eb420f8fa16e91a7a4df3b5bd206d9349888a
